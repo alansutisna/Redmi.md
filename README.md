@@ -1,1 +1,2 @@
-# Redmi.md
+99dice
+sc dice
